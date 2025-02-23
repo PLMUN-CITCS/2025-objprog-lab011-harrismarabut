@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class NumberClassifierMenu {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char continueChoice;
